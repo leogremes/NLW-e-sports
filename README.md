@@ -4,6 +4,7 @@
 ## Objetivo
 O objetivo do projeto foi construir um simples agregador de links seguindo a temática de e-sports.<br>
 
+[Clique para acessar](https://leogremes.github.io/NLW-e-sports/)
 ![preview](./.github/preview.png)
 
 ### Tecnologias
